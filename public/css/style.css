@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#catyping-container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;   
+}
+
+#catyping-text {
+    font-size: 2rem;
+    color: #000;
+    text-align: center;
+    margin-top: 20px;
+}
